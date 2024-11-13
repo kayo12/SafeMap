@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "tipo": "Acidente de trânsito",
+    "descricao": "Colisão entre dois carros na Avenida Ragueb Chohfi",
+    "latitude": -23.791234,
+    "longitude": -46.735678,
+    "data": "2023-04-15T10:30:00Z",
+    "gravidade": "Médio"
+  },
+  {
+    "id": 2,
+    "tipo": "Incêndio",
+    "descricao": "Pequeno incêndio em loja comercial na Estrada do Palanque",
+    "latitude": -23.794567,
+    "longitude": -46.732345,
+    "data": "2023-04-15T11:45:00Z",
+    "gravidade": "Alto"
+  },
+  {
+    "id": 3,
+    "tipo": "Alagamento",
+    "descricao": "Rua bloqueada devido a alagamento na Avenida Jacú-Pêssego",
+    "latitude": -23.789876,
+    "longitude": -46.737890,
+    "data": "2023-04-15T09:15:00Z",
+    "gravidade": "Baixo"
+  },
+  {
+    "id": 4,
+    "tipo": "Queda de árvore",
+    "descricao": "Árvore caída bloqueando parcialmente a Rua Mário Augusto Pereira",
+    "latitude": -23.795678,
+    "longitude": -46.730987,
+    "data": "2023-04-15T14:20:00Z",
+    "gravidade": "Médio"
+  },
+  {
+    "id": 5,
+    "tipo": "Manifestação",
+    "descricao": "Protesto pacífico no Terminal Cidade Tiradentes",
+    "latitude": -23.793210,
+    "longitude": -46.738765,
+    "data": "2023-04-15T16:00:00Z",
+    "gravidade": "Baixo"
+  }
+]
